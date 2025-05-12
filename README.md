@@ -47,7 +47,7 @@ A API desenvolvida permite:
 ---
 ### Desafios Encontrados e Foco da Entrega
 
-O desafio original incluía o desenvolvimento de uma interface frontend em React ou Angular. Devido ao prazo final de entrega (11/05) **optei por concentrar meus esforços em entregar uma API RESTful backend funcional e testada.**
+O desafio original incluía o desenvolvimento de uma interface frontend em React ou Angular. Devido ao prazo final de entrega (11/05) **optei por concentrar meus esforços em entregar uma API RESTful backend funcional.**
 
 Esta decisão foi tomada considerando a flexibilidade oferecida no comunicado do processo seletivo
 
